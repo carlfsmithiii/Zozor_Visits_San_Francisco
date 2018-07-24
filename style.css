@@ -1,0 +1,44 @@
+#main_wrapper {
+    margin: auto;
+    max-width: 800px;
+    width: 90%;
+}
+
+.above_banner {
+    position: relative;
+}
+
+.iconed_header * {
+    display: inline;
+}
+
+.main_nav {
+    position: absolute;
+    right: 10px;
+    bottom: 5px;
+}
+
+.banner_image img {
+    width: 100%;
+}
+
+.inline li {
+    display: inline;
+}
+
+.float_left {
+    float: left;
+}
+
+.float_right {
+    float: right;
+}
+
+.one_third {
+    width: 33%;
+    float: left;
+}
+
+#friends_list {
+    columns: 2;
+}
