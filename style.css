@@ -190,7 +190,11 @@ aside {
 }
 
 aside img {
-    margin-right: 5px;
+    margin-right: 1px;
+}
+
+aside img:last {
+    margin-right: 0;
 }
 
 /* Footer */
